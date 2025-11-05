@@ -1,6 +1,5 @@
-# AI-Agent-Portfolio
 
-# 🧠 Kavipriya Ramaswamy's AI Agent Portfolio
+# 🧠 Kavipriya Ramaswamy - AI Agent Portfolio
 Welcome to my collection of AI-powered automation tools! As a Certified AI Agent Developer and Product Data Analyst, I've created these intelligent agents to streamline workflows, enhance productivity, and solve real-world business challenges. Each agent is designed with practical applications in mind, helping professionals save time and make data-driven decisions.
 
 ---
