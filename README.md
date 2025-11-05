@@ -29,7 +29,7 @@ Ready to automate your workflows with custom AI agents? I specialize in creating
 [📧 Email me](mailto:rpriya.rahul@gmail.com) or [💼 Connect on LinkedIn](https://www.linkedin.com/in/kavipriya-ramaswamy-53ab995b)
 
 
-## 🚀 Featured AI Agents
+## 🚀 Portfolio of AI Agents
 
 ### TL;DR Any Webpage  
 **Description**: Allows you to click a button on any webpage, YouTube video, PDF and extract all of the relevant points.
